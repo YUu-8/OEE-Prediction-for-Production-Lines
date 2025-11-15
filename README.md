@@ -98,5 +98,3 @@ OEE-Prediction/
 
 
 ---
-
-Would you like me to add **detailed configuration file templates** (including Watsonx Data Refinery processing steps and AutoAI parameter settings) or generate **key code snippets** (e.g., time-lag feature construction code) for this project?
